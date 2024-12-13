@@ -1,6 +1,5 @@
 ## Hi there 👋 I am sachin sinha
 
-<!--
 **Sinhasachin067/Sinhasachin067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A Passionate Coder from Begusarai,Bihar,Bharat
@@ -10,4 +9,4 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 👨‍🎓 I'm a Full Stack Web Developer
 - 🌱 I’m currently learning Nodejs
 -
--->
+
