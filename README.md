@@ -8,5 +8,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 - 👨‍🎓 I'm a Full Stack Web Developer
 - 🌱 I’m currently learning Nodejs
+- 📬 How to reach me: [sinhasachin067@gmail.com]
 - 📄 <a href="https://35dda3a6-34b5-40fe-b15d-bc766f16d881-00-7y1j2ql821je.sisko.replit.dev/#contact">Resume</a>
 
+<br/>
+<a href=:https://www.linkedin.com/in/sinhasachin067/">Linedin</a>
