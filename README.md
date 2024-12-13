@@ -2,7 +2,7 @@
 
 <!-- **Sinhasachin067/Sinhasachin067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-                                                  <b> A Passionate Coder from Begusarai,Bihar,Bharat </b>
+                                        A Passionate Coder from Begusarai,Bihar,Bharat
 👉🏽About me:
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I am well-versed in both front-end and back-end development, and I understand the importance of creating a seamless experience for users across all platforms and devices
 
